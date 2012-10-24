@@ -1,7 +1,7 @@
 Linked [![Build Status](https://secure.travis-ci.org/superhighfives/linked.png)](http://travis-ci.org/superhighfives/linked)
 ======
 
-Runs through all the href links on a page and checks for any broken links and/or non-responsive pages.
+A ruby gem to run through all the href links on a page and checks for any broken links and/or non-responsive pages.
 
 ## Installation
 
